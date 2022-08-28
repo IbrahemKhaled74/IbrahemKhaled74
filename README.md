@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋 Ibrahem Khaled</h1>
 <h3 align="center">I'm Native Android Developer (java & kotlin).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahemkhaled74&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahemkhaled74" /> </p>
@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahem-khaled-499023234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahem-khaled-499023234/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ibrahem.khaled74/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ibrahem.khaled74/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibrahem-khaled-499023234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahem-khaled-499023234/" height="30" width="40" /></a>
+<a href="https://fb.com/ibrahem.khaled74/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibrahem.khaled74/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
