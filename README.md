@@ -1,7 +1,8 @@
 <h1 align="center">Hi There 👋</h1>
 <h3 align="center">I'm Native Android Developer (java & kotlin).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahemkhaled74&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahemkhaled74" /> </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mohamed-radwan-devops.visitor-badge)
+![GitHub followers](https://img.shields.io/github/followers/MohamedRadwan-DevOps?style=social)
 
 - 🔭 I’m currently working **As Freelancer**
 
