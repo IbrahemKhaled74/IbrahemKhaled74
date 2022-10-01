@@ -21,3 +21,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahemkhaled74&show_icons=true&locale=en" alt="ibrahemkhaled74" /></p>
+<h2>🔠 Programing Langs Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app//api/top-langs/?username=ibrahemkhaled74" />
+
