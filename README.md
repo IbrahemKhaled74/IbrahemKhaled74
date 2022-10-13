@@ -1,7 +1,6 @@
 <h1 align="center">Hi There 👋</h1>
 <h3 align="center">I'm Native Android Developer (java & kotlin).</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ibrahemkhaled74)
 ![GitHub followers](https://img.shields.io/github/followers/ibrahemkhaled74?style=social)
 
 - 🔭 I’m currently working **As Freelancer**
