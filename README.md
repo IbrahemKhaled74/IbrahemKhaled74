@@ -1,11 +1,14 @@
 <h1 align="center">Hi There 👋</h1>
-<h3 align="center">I'm Native Android Developer (java & kotlin).</h3>
+<h3 align="center">
+  Hello! I'm Ibrahem Khaled, a software developer with experience in Java and Spring Boot.
+  I also have a foundational understanding of Android development and work with various databases including MongoDB and SQL.
+  Additionally, I have some experience with AWS Cloud services.
+</h3>
 
 ![GitHub followers](https://img.shields.io/github/followers/ibrahemkhaled74?style=social)
 
-- 🔭 I’m currently working **As Freelancer**
+- 🔭 I’m currently working **As Backend**
 
-- 💬 Ask me about **anything about android development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
